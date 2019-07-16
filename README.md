@@ -9,4 +9,4 @@ Instructions:
 3. run "npm start" 
 4. Do the same for the back-end server linked "https://github.com/ElliottRawdon/Face-Recognition-Server"
 
-Note: The entries updater & username is included in the server portion which will be in the live demo which will be uploaded shortly. 
+Note: This is the core app displaying functionality. The entries updater & username is included in the server portion which will be included in the live demo coming shortly. 
